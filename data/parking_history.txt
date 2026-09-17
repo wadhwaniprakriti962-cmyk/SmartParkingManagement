@@ -1,0 +1,16 @@
+Vehicle Number: 123456
+Vehicle Type: Car
+Owner: qwerty
+Slot: 1
+Entry: 17-09-2026 12:39:46
+Exit: 17-09-2026 12:39:56
+Fee: Rs.40.0
+----------------------------
+Vehicle Number: CAR123
+Vehicle Type: Car
+Owner: Rohan
+Slot: 1
+Entry: 17-09-2026 15:26:56
+Exit: 17-09-2026 15:29:38
+Fee: Rs.40.0
+----------------------------
